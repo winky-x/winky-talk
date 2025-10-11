@@ -1,0 +1,3640 @@
+[
+  {
+    "messages": [
+      {
+        "id": "GR_16ccaa2751be",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759412247.3617513
+      }
+    ],
+    "timestamp": 1759412248.373919
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_57278ed296d2",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good morning!"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759412461.9552536
+      }
+    ],
+    "timestamp": 1759412462.9712412
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_85696c371ce8",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट,"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759412568.397833
+      }
+    ],
+    "timestamp": 1759412569.4031434
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_372a71c24db0",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good morning! आजकल तो सुबह भी दोपहर जैसी लग रही है, है ना? बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759412648.1315804
+      }
+    ],
+    "timestamp": 1759412649.1451402
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_11e524652dfa",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ,"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759413556.2712762
+      }
+    ],
+    "timestamp": 1759413558.8059084
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_f3695f7e8d25",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          " आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। और अभी, देखकर लग रहा है जैसे वक़्त थोड़ा धीरे चल रहा है! बताइए गौरव सचदेवा सर, मैं आपकी"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759413566.1386123
+      }
+    ],
+    "timestamp": 1759413566.8539917
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_7fb9fae49f28",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759414161.120336
+      }
+    ],
+    "timestamp": 1759414164.4149873
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_92cdfdb31a13",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। और अभी, देखकर लग रहा है जैसे वक़्त थोड़ा धीरे चल रहा है! बताइए गौरव सचदेवा सर, मैं आपकी "
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759414175.823168
+      }
+    ],
+    "timestamp": 1759414176.4486692
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_77ae266dfaad",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "किस प्रकार सहायता कर सकता हूँ?\nअच्छा, एक मिनट रुकिए मैं आपको current time बताता हूँ।\nआज तारीख भी मैं आपको बता देता हूँ। आप बस बताइये क्या मदद चाहिए।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759414185.255252
+      }
+    ],
+    "timestamp": 1759414185.4662843
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c95d10463115",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जार्व"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570038.8673832
+      }
+    ],
+    "timestamp": 1759570040.8439772
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_76f5162c2fad",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "िस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good morning! आज का दिन भी क्या सुहाना है, अगर आप ऑफिस के ट्रैफिक में नहीं फंसे हैं तो! बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nOkay, तो आज की तारीख है <coroutine object StructuredTool.ainvoke at 0x000001EC0A44DF40> और आपका current शहर है <coroutine object get_current_city at 0x000001EC0A472EA0> । अब बताइए, मैं आपके लिए क्या कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570077.8832965
+      }
+    ],
+    "timestamp": 1759570078.1150556
+  },
+  {
+    "messages": [
+      {
+        "id": "item_55311c362414",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "play iron man 3"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570081.4919534
+      }
+    ],
+    "timestamp": 1759570082.1521995
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c4dea79cf551",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570082.8358662
+      }
+    ],
+    "timestamp": 1759570083.1653242
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c6f597b8682f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ज़रूर, Iron Man 3 YouTube पर play कर रहा हूँ। Enjoy! और बताइए, क्या करूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570093.0677514
+      }
+    ],
+    "timestamp": 1759570093.3238842
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_fbf2825893cf",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "क्या हाल चाल? कोई और काम है या बस timepass कर रहे हैं? अगर कोई काम है तो बताइए, मैं हाज़िर हूँ।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570100.182052
+      }
+    ],
+    "timestamp": 1759570100.388071
+  },
+  {
+    "messages": [
+      {
+        "id": "item_574e657a517b",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "iron man 3 play kro jo d drive me hai"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570110.144922
+      }
+    ],
+    "timestamp": 1759570110.4678137
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_aed57fe36e0c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570111.1206207
+      }
+    ],
+    "timestamp": 1759570111.492955
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_d7a3967cb8c2",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Okay, Iron Man 3 जो D drive में है, वो play कर रहा हूँ। कोई और service चाहिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570128.299762
+      }
+    ],
+    "timestamp": 1759570128.4072669
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_90d2a89da902",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "फिल्म देख कर बोर हो गए क्या? Shall I suggest something else? Maybe कुछ और काम हो तो बताइए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570134.5433822
+      }
+    ],
+    "timestamp": 1759570135.4635074
+  },
+  {
+    "messages": [
+      {
+        "id": "item_4c51cc445124",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "muje ajj ki news btao"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570161.9984899
+      }
+    ],
+    "timestamp": 1759570162.724587
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_06db23db7165",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570163.1948864
+      }
+    ],
+    "timestamp": 1759570163.7416482
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_e82ab795e12c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आज की news जानने के लिए, मुझे एक query बनाकर search करना होगा। क्या आप"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570169.100467
+      }
+    ],
+    "timestamp": 1759570169.227017
+  },
+  {
+    "messages": [
+      {
+        "id": "item_c3b0f8b33981",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "yes"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570169.1014178
+      }
+    ],
+    "timestamp": 1759570169.2387843
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_9773eedb3798",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570175.9451618
+      }
+    ],
+    "timestamp": 1759570176.3091338
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_45abb9c07704",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Alright, मुझे अभी headlines नहीं मिल पा रही हैं। Instead, क्या आप specific topic के बारे में जानना चाहेंगे जैसे politics,"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759570189.744076
+      }
+    ],
+    "timestamp": 1759570190.3910234
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_4ad49866bd3f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या करें! बताइए, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571363.461282
+      }
+    ],
+    "timestamp": 1759571364.4674032
+  },
+  {
+    "messages": [
+      {
+        "id": "item_d3c51b9a675c",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "aj date kya hai"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571371.2517593
+      }
+    ],
+    "timestamp": 1759571371.5335305
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_5340d6693331",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571372.3588598
+      }
+    ],
+    "timestamp": 1759571372.5602322
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_0b8afa568b30",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आज 4 October 2025 है। क्या मैं आपके लिए कुछ और कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571382.0788276
+      }
+    ],
+    "timestamp": 1759571382.6656485
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_1f14fb06c807",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ओके। तो क्या अब मैं फ्री हूँ या आपके दिमाग में कुछ और चल रहा है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571387.8725903
+      }
+    ],
+    "timestamp": 1759571388.7170632
+  },
+  {
+    "messages": [
+      {
+        "id": "item_0d3fc63f56ea",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "meri current city btao"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571392.0951877
+      }
+    ],
+    "timestamp": 1759571392.7607327
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_2e9f653e5e23",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आपकी current city दिल्ली है। और दिल्ली में मौसम भी एकदम clear है, temperature 36.14°C है, humidity 30% है, और हवा की speed 4.22 m/s है। और कुछ जानना चाहेंगे?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571410.5231025
+      }
+    ],
+    "timestamp": 1759571410.9169977
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_6e60460f7fc2",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ठीक है, तो अब क्या हुकुम है मेरे आका?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571413.8256793
+      }
+    ],
+    "timestamp": 1759571413.955412
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_07d971bce2e7",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या करें! बताइए, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571529.170969
+      }
+    ],
+    "timestamp": 1759571530.1790402
+  },
+  {
+    "messages": [
+      {
+        "id": "item_0a16f79dd98e",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "ajj ki date btao"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571538.6871138
+      }
+    ],
+    "timestamp": 1759571539.2708738
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_81734b336eab",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571539.6573567
+      }
+    ],
+    "timestamp": 1759571540.2945285
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_bcc7b2adf3ee",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आज 4 अक्टूबर 2025 है। और क्या जानना चाहेंगे आप?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571548.5798101
+      }
+    ],
+    "timestamp": 1759571549.3686297
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_412fc28b2090",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ओके। बताइए सर, मैं आपकी क्या हेल्प कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571557.7874272
+      }
+    ],
+    "timestamp": 1759571558.4415045
+  },
+  {
+    "messages": [
+      {
+        "id": "item_bfb2a0931ec3",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "muje google search kr ke aj ki latest news btao"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571559.5900965
+      }
+    ],
+    "timestamp": 1759571560.5961099
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_14be356bf9e9",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571560.6134183
+      }
+    ],
+    "timestamp": 1759571561.620943
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_8f1d6de2ea17",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आज की ताज़ा ख़बर जानने के लिए गूगल सर्च कर रहा हूँ। थोड़ा सा इंतज़ार कीजिए।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571569.9839487
+      }
+    ],
+    "timestamp": 1759571570.822342
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_40c6fd5476e0",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571570.8420014
+      }
+    ],
+    "timestamp": 1759571571.8407853
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_0b32cd803a1e",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ज़रूर, मैं अभी गूगल सर्च करके आपको आज की ताज़ा खबरें बताता हूँ। थोड़ा सा इंतजार कीजिए।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571580.6487455
+      }
+    ],
+    "timestamp": 1759571580.8618429
+  },
+  {
+    "messages": [
+      {
+        "id": "item_eee892d1c64f",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "btao"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571601.1004732
+      }
+    ],
+    "timestamp": 1759571602.1467905
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_a8de4e9853b1",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571602.164899
+      }
+    ],
+    "timestamp": 1759571603.164134
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_7930338d9205",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "अभी आपके लिए ताज़ा खबरें ढूंढ रहा हूँ। बस एक मिनट लगेगा।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571610.8984587
+      }
+    ],
+    "timestamp": 1759571611.2316618
+  },
+  {
+    "messages": [
+      {
+        "id": "item_2df6df367280",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "avatat the way of water play kro"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571639.720691
+      }
+    ],
+    "timestamp": 1759571640.3664675
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_2b5361440d10",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571640.808584
+      }
+    ],
+    "timestamp": 1759571641.3816438
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_4de827dd634c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ठीक है, मैं अभी \"Avatar: The Way of Water\" प्ले कर देता हूँ। एन्जॉय! और कुछ चाहिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571653.8314571
+      }
+    ],
+    "timestamp": 1759571654.221773
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_936e01a4b2a6",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "बताइए सर, और क्या करूँ आपके लिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571656.771065
+      }
+    ],
+    "timestamp": 1759571657.2383423
+  },
+  {
+    "messages": [
+      {
+        "id": "item_56265093869e",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "nhi hue play kro"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571661.38773
+      }
+    ],
+    "timestamp": 1759571662.2863271
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_4bd0298f9fc4",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "माफ़ करना, मुझसे कुछ गड़बड़ हो गई। मैं अभी \"Avatar: The Way of Water\" प्ले कर रहा हूँ। एक मिनट दीजिये।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571675.0044346
+      }
+    ],
+    "timestamp": 1759571675.364336
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_e607d54af924",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "बताइए, और क्या कर सकता हूँ मैं आपके लिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759571678.6411717
+      }
+    ],
+    "timestamp": 1759571679.3919275
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ea50f4cb2513",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759572371.1672797
+      }
+    ],
+    "timestamp": 1759572373.794241
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ee08bd71d0db",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759572379.5785358
+      }
+    ],
+    "timestamp": 1759572379.8335245
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_2bf35b38e4e5",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573551.9715114
+      }
+    ],
+    "timestamp": 1759573553.2448957
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_9756f91ca6db",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ", आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या करें! बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nतो बताइए, मैं आपकी क्या हेल्प कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573566.5811744
+      }
+    ],
+    "timestamp": 1759573567.3643281
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_a5c2d7aa2ae2",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आप"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573588.3664656
+      }
+    ],
+    "timestamp": 1759573589.50812
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_2ec089537610",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "का पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573595.007033
+      }
+    ],
+    "timestamp": 1759573595.5611002
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_773bedfb86eb",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्वि"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573601.2183778
+      }
+    ],
+    "timestamp": 1759573603.274824
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_2a276d8967b7",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "स हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या करें! बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nतो बताइए, मैं आपकी क्या हेल्प कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573615.272606
+      }
+    ],
+    "timestamp": 1759573615.3787706
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_28157f28de37",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ,"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573668.1881533
+      }
+    ],
+    "timestamp": 1759573669.880631
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_0b9e0b6c8f19",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          " आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या करें! बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nतो बताइए, मैं आपकी क्या हेल्प कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573683.075809
+      }
+    ],
+    "timestamp": 1759573683.9875998
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_648f8be80545",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "هلو"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573705.5450976
+      }
+    ],
+    "timestamp": 1759573706.1702673
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_dabc82363a7e",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "हाँ जी, बोलिए! क्या चाहिए आपको?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573705.5555341
+      }
+    ],
+    "timestamp": 1759573706.185042
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_962b4675278d",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "Hello."
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573837.4211125
+      }
+    ],
+    "timestamp": 1759573838.2666442
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c2b2ead46b35",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं सुन रहा हूँ, सर। बोलिए क्या काम है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759573837.431331
+      }
+    ],
+    "timestamp": 1759573838.2814412
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_8fbd1dcc8018",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581314.901083
+      }
+    ],
+    "timestamp": 1759581316.9944038
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_5a0828f94eb8",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या करें! बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nतो बताइए, मैं आपकी क्या हेल्प कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581335.7389233
+      }
+    ],
+    "timestamp": 1759581336.0585492
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ef17f0568404",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Namaste! मैं Jarvis हूं, आपका personal AI assistant, जिसे Gaurav Sachdeva ने design किया है। दोपहर का time है, उम्मीद है काम अच्छा चल रहा होगा!\n\nबताइए Gaurav Sachdeva sir, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581357.154457
+      }
+    ],
+    "timestamp": 1759581358.1619654
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_24c857f9fdaf",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "टाइम क्या हुआ"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581370.7299016
+      }
+    ],
+    "timestamp": 1759581371.2193246
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_18b60c45198c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "अभी 3:35 PM बजे हैं। क्या मैं आपके लिए कुछ और कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581370.7476661
+      }
+    ],
+    "timestamp": 1759581371.241961
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_1216a2318ca4",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "ڈیٹ کے اج"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581381.185641
+      }
+    ],
+    "timestamp": 1759581381.3111937
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_d375f163a37a",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आज 4 October 2025 है। क्या आपको किसी और चीज की जानकारी चाहिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581381.2051845
+      }
+    ],
+    "timestamp": 1759581381.3369691
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_d3bb45f470cd",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "टाइम कितना हो रहा है अभी"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581397.1294355
+      }
+    ],
+    "timestamp": 1759581397.4510558
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_7560f9eef194",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "अभी 3:36 PM हो रहे हैं। क्या आप कुछ और जानना चाहेंगे?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581397.1537142
+      }
+    ],
+    "timestamp": 1759581397.4818685
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_374e733fd1e1",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "मेरी लोकेशन क्या है"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581405.2279425
+      }
+    ],
+    "timestamp": 1759581405.5558496
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_b9015a07de59",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आपकी current location दिल्ली है। क्या आपको weather के बारे में भी जानना है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581405.2481537
+      }
+    ],
+    "timestamp": 1759581405.5819113
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_7872e0859330",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "हां वेट क्या चल रहा है"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581421.9080555
+      }
+    ],
+    "timestamp": 1759581422.703916
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c032f1a248ef",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "दिल्ली में अभी Clear Sky है, temperature 36.14°C है, और humidity 30% है। Wind speed 4.22 m/s है। और कुछ जानना चाहेंगे?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581421.9328778
+      }
+    ],
+    "timestamp": 1759581422.7333243
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_d18410955990",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "Have a dart way of watch play group."
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581437.6121137
+      }
+    ],
+    "timestamp": 1759581437.956155
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_2d54818aa0f8",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581437.9920635
+      }
+    ],
+    "timestamp": 1759581438.9877522
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_8ab233e7e58a",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आपका मतलब \"dart way of watch play group\" से क्या है, मैं ठीक से समझा नहीं। क्या आप इसे थोड़ा और clear कर सकते हैं ताकि मैं आपकी बेहतर मदद कर सकूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581451.147107
+      }
+    ],
+    "timestamp": 1759581451.4225352
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_f12bdefc7805",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "गौरव पोल्डर ओपन करो"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581456.5942528
+      }
+    ],
+    "timestamp": 1759581457.462805
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_702c8835ff3c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581456.9477708
+      }
+    ],
+    "timestamp": 1759581457.496981
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_af97a06b079b",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ठीक है, मैंने \"Gaurav\" फोल्डर open कर दिया है। और कुछ चाहिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581476.7242057
+      }
+    ],
+    "timestamp": 1759581476.8544002
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_cc2bba42a3fd",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "And you won't."
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581491.7634344
+      }
+    ],
+    "timestamp": 1759581491.9508634
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ecbb006330d3",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "कोई बात नहीं। अगर आपको और कुछ चाहिए तो बताइएगा।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581491.7839518
+      }
+    ],
+    "timestamp": 1759581491.97869
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_6e036130fe0a",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "नहीं हुआ"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581498.246036
+      }
+    ],
+    "timestamp": 1759581499.0525293
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_3ffbec75f50c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "क्या नहीं हुआ? Please थोड़ा और detail में बताइये, ताकि मैं आपकी help कर सकूं।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581498.264158
+      }
+    ],
+    "timestamp": 1759581499.0839005
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_9250436e61ac",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "3 प्लेयर"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581506.9192002
+      }
+    ],
+    "timestamp": 1759581507.2368624
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_89679ab8c777",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581507.2686257
+      }
+    ],
+    "timestamp": 1759581519.2251084
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_7883d526093d",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Ok, मैं \"Iron Man 3\" play करने की कोशिश कर रहा हूँ। थोड़ा wait कीजिए।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581539.6414068
+      }
+    ],
+    "timestamp": 1759581540.2487702
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_8ffa2fd58529",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! "
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581633.3619335
+      }
+    ],
+    "timestamp": 1759581635.6381967
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_6476f745c865",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या करें! बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nतो बताइए, मैं आपकी क्या हेल्प कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581649.330344
+      }
+    ],
+    "timestamp": 1759581649.660941
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_6790efcaa5e9",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्वि"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581663.3722246
+      }
+    ],
+    "timestamp": 1759581665.5279307
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_700dcc761eb5",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "स हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good afternoon! इतनी गर्मी में भी काम करना पड़ता है, क्या करें! बताइए"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581671.762955
+      }
+    ],
+    "timestamp": 1759581672.5722182
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_713945866aef",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581806.9789898
+      }
+    ],
+    "timestamp": 1759581809.5552087
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ea0c53b220f3",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good evening! दिल्ली में आज मौसम तो एकदम clear है, बस थोड़ी गर्मी ज़्यादा है। बताइए, गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nतू tension मत ले, मैं इधर हूँ। बोल क्या help चाहिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581824.6731045
+      }
+    ],
+    "timestamp": 1759581825.6638534
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_93d9e6d14564",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "टाइम क्या हो रहा है"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581832.1961887
+      }
+    ],
+    "timestamp": 1759581832.7350867
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_a9b6627bc08c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581832.555914
+      }
+    ],
+    "timestamp": 1759581832.7697086
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_6238c9513844",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "अभी शाम के 6:13 बजे हैं। क्या कर रहे हो इस वक़्त? कोई ख़ास काम है या बस timepass कर रहे हो?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581842.3389888
+      }
+    ],
+    "timestamp": 1759581842.8515673
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_f641a68a25b0",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "ठीक है"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581856.1142156
+      }
+    ],
+    "timestamp": 1759581856.945788
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_f970b89f33a0",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "बस ठीक है? और कुछ चाहिए या इतना ही काफ़ी है? बता, मैं हूँ ना!\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581856.1326926
+      }
+    ],
+    "timestamp": 1759581856.9742432
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_1598b2f77218",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "डेट क्या है"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581860.5555325
+      }
+    ],
+    "timestamp": 1759581861.024922
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_8d5c089751e0",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581860.8930998
+      }
+    ],
+    "timestamp": 1759581861.0536194
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_cade8d4eb89f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आज 4 October 2025 है। क्या प्लान है आज का? कोई movie वगैरह देखने का सीन है क्या?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581870.653024
+      }
+    ],
+    "timestamp": 1759581871.1272852
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_d3883f0c565d",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "सैंड"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581885.199573
+      }
+    ],
+    "timestamp": 1759581885.2257385
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ce67ca57d130",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "रेत? रेत से क्या करना है? कोई रेत का महल बनाना है या बीच पर घूमना है? थोड़ा और बता, मैं समझ नहीं पाया।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581885.2766778
+      }
+    ],
+    "timestamp": 1759581886.26908
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_ab99f290cbdb",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "Avengers end gameplay kar."
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581890.1131444
+      }
+    ],
+    "timestamp": 1759581890.4731836
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_da29502f9c20",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581890.5178015
+      }
+    ],
+    "timestamp": 1759581891.511402
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c16673469d6f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Ok, Avengers: Endgame प्ले कर दिया है। मज़े करो! और बताइये, मैं और क्या कर सकता हूँ आपके लिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581917.3286638
+      }
+    ],
+    "timestamp": 1759581917.9784129
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_b9f2570805f3",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "جاز"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581977.462133
+      }
+    ],
+    "timestamp": 1759581978.309174
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ab6371748876",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "हमेशा हाज़िर, सर! और कुछ चाहिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581977.483402
+      }
+    ],
+    "timestamp": 1759581978.3441093
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_c0b052a8f4b6",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "close c."
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581981.9300528
+      }
+    ],
+    "timestamp": 1759581982.411347
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_b8bcd7491f9d",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581982.2672143
+      }
+    ],
+    "timestamp": 1759581982.4536853
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_5f2d452ce516",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "VLC बंद कर दिया है। और कुछ काम"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581989.9753995
+      }
+    ],
+    "timestamp": 1759581990.5325842
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_35143871a890",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "ठीक है म्यूट"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581999.4255242
+      }
+    ],
+    "timestamp": 1759581999.596944
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_0f9f8da025f0",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "समझ गया। क्या म्यूट करना है? सिस्टम को या कोई स्पेसिफिक ऐप? बताइये, मैं करता हूँ।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759581999.4373837
+      }
+    ],
+    "timestamp": 1759581999.623179
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_1d7c4e3710db",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759582032.66866
+      }
+    ],
+    "timestamp": 1759582035.6103895
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_7a0c3cb785fc",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good evening! दिल्ली में आज मौसम तो एकदम clear है, बस थोड़ी गर्मी ज़्यादा है। बताइए, गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nतू tension मत ले, मैं इधर हूँ। बोल क्या help चाहिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759582054.6647918
+      }
+    ],
+    "timestamp": 1759582054.7656164
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_3c7a45d79ace",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759582137.5316608
+      }
+    ],
+    "timestamp": 1759582140.2360976
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_4d746c930652",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good evening! दिल्ली में आज मौसम तो एकदम clear है, बस थोड़ी गर्मी ज़्यादा है। बताइए, गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nतू tension मत ले, मैं इधर हूँ। बोल क्या help चाहिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759582159.4235177
+      }
+    ],
+    "timestamp": 1759582160.4020345
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_25c0de57aa5c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759582207.5064278
+      }
+    ],
+    "timestamp": 1759582209.8164973
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_168e314afbf7",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good evening! दिल्ली में आज मौसम तो एकदम clear है, बस थोड़ी गर्मी ज़्यादा है। बताइए, गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nमैं आपकी appointments schedule कर सकता हूँ, reminders set कर सकता हूँ, weather की जानकारी दे सकता हूँ, और भी बहुत कुछ। तू बता क्या करवाना है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759582232.2824984
+      }
+    ],
+    "timestamp": 1759582232.975886
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c4c23657061d",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम बिल्कुल जबरदस्त है, है ना?\n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759582422.4497848
+      }
+    ],
+    "timestamp": 1759582423.4572544
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_476366bc40d6",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम बिल्कुल जबरदस्त है, है ना?\n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759582798.0714169
+      }
+    ],
+    "timestamp": 1759582798.961845
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c7d8317ef346",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम बिल्कुल जबरदस्त है, है ना?\n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583545.193676
+      }
+    ],
+    "timestamp": 1759583546.1972046
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_e53d25b14008",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जार्विस हूँ, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good evening! दिल्ली में आज मौसम तो एकदम बढ़िया है, लेकिन गर्मी अभी भी अपना रंग दिखा रही है। \n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583571.7548313
+      }
+    ],
+    "timestamp": 1759583574.143427
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_1c45ae225dca",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583573.6314838
+      }
+    ],
+    "timestamp": 1759583574.2048259
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_8b93ccb67feb",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम बिल्कुल जबरदस्त है, है ना?\n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583612.3786557
+      }
+    ],
+    "timestamp": 1759583613.384057
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_bae84c35c5db",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम बिल्कुल जबरदस्त है, है ना?\n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583686.4814098
+      }
+    ],
+    "timestamp": 1759583687.4886878
+  },
+  {
+    "messages": [
+      {
+        "id": "item_0c03e0b540af",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "hi"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583699.6273704
+      }
+    ],
+    "timestamp": 1759583700.590242
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_5054dfc5769c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583701.5637908
+      }
+    ],
+    "timestamp": 1759583701.6553216
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_dc33c64543cd",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "अरे, क्या हाल है? बताइए, मैं आपके लिए क्या कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583710.4393344
+      }
+    ],
+    "timestamp": 1759583710.9625363
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_fa6b11a0926f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583711.423005
+      }
+    ],
+    "timestamp": 1759583712.0184634
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_7ec5a133adec",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "तो बताईये क्या सेवा करूँ आपकी?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583717.9210846
+      }
+    ],
+    "timestamp": 1759583718.4980361
+  },
+  {
+    "messages": [
+      {
+        "id": "item_c9e5abc93e54",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "hi"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583871.0194075
+      }
+    ],
+    "timestamp": 1759583871.1648483
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_48dcb30430fc",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! क्या चल रहा है? आज मैं आपकी क्या मदद कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583871.7384768
+      }
+    ],
+    "timestamp": 1759583872.1852992
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_486b24a81b24",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "जनाब, बताइए क्या हुकुम है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759583879.8809693
+      }
+    ],
+    "timestamp": 1759583880.2772129
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_4f3efa129fc9",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "Hello"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584168.7493598
+      }
+    ],
+    "timestamp": 1759584169.1215837
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_144b254bce63",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "क्या हाल चाल? क्या कर रहे हो?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584168.7515452
+      }
+    ],
+    "timestamp": 1759584169.1402135
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_75cfed223921",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "."
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584180.1763685
+      }
+    ],
+    "timestamp": 1759584180.2386134
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_af29f3ccf4cf",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "हेलो आवाज आ रही है"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584184.4334743
+      }
+    ],
+    "timestamp": 1759584185.2827263
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_b0f364fd403b",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "Ça va ça de"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584190.5690758
+      }
+    ],
+    "timestamp": 1759584191.3439565
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_de8f80f377c2",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "सब ठीक है, क्या हाल है? और क्या कर रहे हो?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584190.5799036
+      }
+    ],
+    "timestamp": 1759584191.3634524
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_f1a0a5176f3a",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "<noise>"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584200.0174563
+      }
+    ],
+    "timestamp": 1759584200.4303648
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_0f67b115c32e",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "<noise>"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584206.641591
+      }
+    ],
+    "timestamp": 1759584207.4912179
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_f42d9d6a7305",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ओह, आप गाने सुन रहे हैं? क्या मैं जान सकता हूँ कि आप क्या सुन रहे हैं?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584206.653925
+      }
+    ],
+    "timestamp": 1759584207.522311
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_c5ddebaec031",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "うん 。"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584222.0229392
+      }
+    ],
+    "timestamp": 1759584222.6717157
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_b305cb38e143",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "कोई particular artist या genre पसंद है क्या आपका?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584222.0295851
+      }
+    ],
+    "timestamp": 1759584222.690683
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_5c144b152a85",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "What do you say Japanese?"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584248.8711817
+      }
+    ],
+    "timestamp": 1759584249.8224924
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_1465d2f1f3c7",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "अच्छा, जैपनीज"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584248.8820662
+      }
+    ],
+    "timestamp": 1759584249.8415241
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_7fc3308d40ed",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "<noise>"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584253.4066064
+      }
+    ],
+    "timestamp": 1759584253.8823934
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ae2380cdc7fa",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "जापानी म्यूजिक में आपको सबसे ज्यादा क्या पसंद है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584253.8343716
+      }
+    ],
+    "timestamp": 1759584253.902102
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_9872bd09cbc5",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम बिल्कुल जबरदस्त है, है ना?\n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584281.8294358
+      }
+    ],
+    "timestamp": 1759584282.598639
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_94e2f0957eef",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "Yes you can"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584343.2320952
+      }
+    ],
+    "timestamp": 1759584343.987521
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_694b58646f8f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584343.653444
+      }
+    ],
+    "timestamp": 1759584344.0100706
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_d0a694e377f9",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ज़रूर। आप क्या देखना चाहेंगे? मुझे बताइए और मैं सोचकर बताता हूँ।\nअभी तो मैं कुछ देख नहीं पा रहा हूँ। क्या आप कुछ दिखाना चाहते हैं?"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584358.6469524
+      }
+    ],
+    "timestamp": 1759584359.1140926
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_1c517e1b3d2f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम बिल्कुल जबरदस्त है, है ना?\n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584458.0328119
+      }
+    ],
+    "timestamp": 1759584459.04354
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_948802c83e18",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584484.9405038
+      }
+    ],
+    "timestamp": 1759584485.9438086
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_e892fd9136d2",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "नमस्ते! मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिजाइन किया है। Good evening! दिल्ली में मौसम बिल्कुल जबरदस्त है, है ना?\n\nबताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584730.4287672
+      }
+    ],
+    "timestamp": 1759584731.4414153
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_f779d4715c6e",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "टाइम क्या हुआ"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584748.4242222
+      }
+    ],
+    "timestamp": 1759584748.5391629
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_52d4de1b568b",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "अभी शाम के 06:22 PM बजे हैं। क्या मैं आपके लिए कुछ और कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584748.4340353
+      }
+    ],
+    "timestamp": 1759584748.557323
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_45e3f29efa4a",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584793.9082437
+      }
+    ],
+    "timestamp": 1759584797.3303516
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c5397d7c0cb1",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good evening! दिल्ली में आज मौसम तो एकदम सुहाना है, मतलब गर्मी अभी भी जा नहीं रही है। बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nमैंने अभी Delhi का weather check किया। Condition: Clear Sky, Temperature: 34.01°C, Humidity: 34% और Wind Speed: 3.59 m/s है। तो basically, मौसम एकदम clear है और थोड़ी गर्मी है। और बताइए, मैं आपकी क्या help कर"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584820.572277
+      }
+    ],
+    "timestamp": 1759584821.4830046
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_5401351d7fcc",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "كم"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584823.2984521
+      }
+    ],
+    "timestamp": 1759584823.5125253
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_68f5c365fcea",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आप"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584823.3090582
+      }
+    ],
+    "timestamp": 1759584823.5324125
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_c7912ff6c2d7",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "टाइम क्या हुआ"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584833.5293312
+      }
+    ],
+    "timestamp": 1759584833.6364994
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_a900df22c912",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "अभी 04 October 2025, 07:04 PM हुए हैं। क्या मैं कुछ और कर सकता हूँ?"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759584833.5394077
+      }
+    ],
+    "timestamp": 1759584833.655266
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_8d4a1b86f612",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं Jarvis हूं, आपका Personal AI Assistant, जिसे Gaurav Sachdeva ने Design किया है। Good afternoon! दिल्ली में इतनी गर्मी है कि AC भी जवाब दे रहा है। \n\nबताइए Gaurav Sachdeva सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649432.3633165
+      }
+    ],
+    "timestamp": 1759649433.377404
+  },
+  {
+    "messages": [
+      {
+        "id": "item_a4cff1dc6975",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "What si date today"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649450.1460044
+      }
+    ],
+    "timestamp": 1759649450.5198948
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_303661f3d019",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649451.488767
+      }
+    ],
+    "timestamp": 1759649451.5408964
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_25acc2dc21b2",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आज 05 October 2025 है। और कुछ जानना चाहेंगे?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649458.52796
+      }
+    ],
+    "timestamp": 1759649458.6191556
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_46f4ecc278c4",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "कोई और सेवा? मैं आपकी मदद करने के लिए यहाँ हूँ।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649463.9812536
+      }
+    ],
+    "timestamp": 1759649464.6928685
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_201fa485cdf3",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं Jarvis हूं, आपका Personal AI Assistant, जिसे Gaurav Sachdeva ने Design किया है। Good afternoon! दिल्ली में इतनी गर्मी है कि AC भी जवाब दे रहा है। \n\nबताइए Gaurav Sachdeva सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649879.3465638
+      }
+    ],
+    "timestamp": 1759649879.8811104
+  },
+  {
+    "messages": [
+      {
+        "id": "item_2a96fcbdf125",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "ajj date kya hai and time"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649909.1284306
+      }
+    ],
+    "timestamp": 1759649910.1796947
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_bfcbef59eb63",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649910.2064538
+      }
+    ],
+    "timestamp": 1759649911.2081223
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_f83257c5c484",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "आज 05 October 2025, 01:00 PM है। क्या मैं कुछ और कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649920.2350168
+      }
+    ],
+    "timestamp": 1759649920.2659721
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_81b550c40f71",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Ok सर, बताइए क्या करूँ आपके लिए?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649923.1434152
+      }
+    ],
+    "timestamp": 1759649923.307766
+  },
+  {
+    "messages": [
+      {
+        "id": "item_67981ca91f6f",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "iron man 3 play kro"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649931.3697493
+      }
+    ],
+    "timestamp": 1759649931.391079
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_79a759d457ea",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649932.6551006
+      }
+    ],
+    "timestamp": 1759649933.6514237
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_c8c900d6bc52",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ज़रूर सर, मैं अभी Youtube पर Iron Man 3 का trailer चलाता हूँ। \n\nऔर कुछ चाहिए आपको?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649944.3727214
+      }
+    ],
+    "timestamp": 1759649944.8797467
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_8f8de85d0cc6",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Gaurav Sachdeva सर, क्या हाल है? कोई काम है तो बताइए।\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649948.8193316
+      }
+    ],
+    "timestamp": 1759649948.9229336
+  },
+  {
+    "messages": [
+      {
+        "id": "item_89472b0bc269",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "d drive me se iron man 3 play kro"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649959.1440141
+      }
+    ],
+    "timestamp": 1759649960.2283113
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_b43aa29594de",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649960.2546084
+      }
+    ],
+    "timestamp": 1759649961.2609046
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_6c117a24234d",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Sir, मैंने आपके लिए D drive से Iron Man 3 play करने का process शुरू कर दिया है। बस थोड़ा सा इंतजार कीजिए।\n\nइस बीच, क्या मैं आपके लिए कुछ और कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649993.936087
+      }
+    ],
+    "timestamp": 1759649994.591283
+  },
+  {
+    "messages": [
+      {
+        "id": "item_c661dbdc9821",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "close the vlc media"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649994.6182654
+      }
+    ],
+    "timestamp": 1759649995.6175752
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_4724bbcd2212",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "सर, बताईये क्या करना है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649996.3005052
+      }
+    ],
+    "timestamp": 1759649996.655008
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_6293a17a8603",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759649997.2852561
+      }
+    ],
+    "timestamp": 1759649997.6757977
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_e20327979e0d",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "VLC Media Player बंद कर दिया है, सर। और कुछ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650004.1545122
+      }
+    ],
+    "timestamp": 1759650004.7399309
+  },
+  {
+    "messages": [
+      {
+        "id": "item_778f92bfc7d5",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "chrome open kr ke youtube kholo"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650010.9401603
+      }
+    ],
+    "timestamp": 1759650011.9726443
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_ef903173aee2",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650011.995773
+      }
+    ],
+    "timestamp": 1759650012.9982913
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_81723b2625d9",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ज़रूर सर, Chrome open करके Youtube खोल दिया है। अब क्या देखना है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650020.2660043
+      }
+    ],
+    "timestamp": 1759650021.0799565
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_47c0298cc091",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ओके सर, अब क्या हुकुम है?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650023.1808493
+      }
+    ],
+    "timestamp": 1759650024.1372402
+  },
+  {
+    "messages": [
+      {
+        "id": "item_e3574d7219bf",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "notepad open kr ke us pe diwali pr 10 line likho"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650040.1073384
+      }
+    ],
+    "timestamp": 1759650040.2611492
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_58c9ddbce087",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650041.2492633
+      }
+    ],
+    "timestamp": 1759650041.2852306
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_80d3d6afef3a",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "दिवाली पर 10 lines लिखने के लिए Notepad open कर दिया है। लिख दूँ क्या?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650050.7136846
+      }
+    ],
+    "timestamp": 1759650051.3667216
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_6560a7a396b4",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          ""
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650051.9013577
+      }
+    ],
+    "timestamp": 1759650052.3955345
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_be40b6b18a8a",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "Diwali पर 10 lines notepad पर लिख दी हैं, सर। उम्मीद है आपको पसंद आएंगी। और कुछ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759650062.4121394
+      }
+    ],
+    "timestamp": 1759650062.5011702
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_2cb6e8ba5696",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं Jarvis हूं, आपका Personal AI Assistant, जिसे Gaurav Sachdeva"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759652324.4888577
+      }
+    ],
+    "timestamp": 1759652325.4963067
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_5cc3275983e5",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं Jarvis हूं, आपका Personal AI Assistant, जिसे Gaurav Sachdeva ने Design किया"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759652657.690941
+      }
+    ],
+    "timestamp": 1759652658.694937
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_4d94d1f9b43f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं Jarvis हूं, आपका"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759652665.255146
+      }
+    ],
+    "timestamp": 1759652666.271302
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_a1268acb9a55",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं Jarvis हूं, आपका Personal AI Assistant, जिसे Gaurav Sachdeva ने Design किया है। Good afternoon! दिल्ली में इतनी गर्मी है कि AC भी जवाब दे रहा है। \n\nबताइए Gaurav Sachdeva सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759652683.6904402
+      }
+    ],
+    "timestamp": 1759652684.693546
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_974ade89d87f",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं जा"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759653436.601795
+      }
+    ],
+    "timestamp": 1759653439.7743514
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_9c592af48aab",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं"
+        ],
+        "interrupted": true,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759655545.7501729
+      }
+    ],
+    "timestamp": 1759655546.7578537
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_5c634ae66dbd",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं Jarvis हूं, आपका Personal AI Assistant, जिसे Gaurav Sachdeva ने Design किया है। Good afternoon! दिल्ली में इतनी गर्मी है कि AC भी जवाब दे रहा है। \n\nबताइए Gaurav Sachdeva सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759655731.3336434
+      }
+    ],
+    "timestamp": 1759655731.410637
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_151b8cc4b3cc",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "Alors"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759656253.2504816
+      }
+    ],
+    "timestamp": 1759656254.201705
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_26d903a043ac",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "माफ़ कीजिए, मुझे समझ नहीं आया। क्"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759656255.4542363
+      }
+    ],
+    "timestamp": 1759656256.244049
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_68b3c8532ba9",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं Jarvis हूं, आपका Personal AI Assistant, जिसे Gaurav Sachdeva ने Design किया है। Good afternoon! दिल्ली में इतनी गर्मी है कि AC भी जवाब दे रहा है। \n\nबताइए Gaurav Sachdeva सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759656776.129486
+      }
+    ],
+    "timestamp": 1759656777.1347444
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_6d31feb07484",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "मैं"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759902260.5396767
+      }
+    ],
+    "timestamp": 1759902263.4846625
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_dd4f35f4979c",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          " जार्विस हूं, आपका पर्सनल एआई असिस्टेंट, जिसे गौरव सचदेवा ने डिज़ाइन किया है। Good morning! दिल्ली में बिलकुल साफ़ मौसम है, उम्मीद है आज ट्रैफिक कम होगा। बताइए गौरव सचदेवा सर, मैं आपकी किस प्रकार सहायता कर सकता हूँ?\nआप मुझसे कुछ भी पूछ सकते हैं, जैसे कि मौसम कैसा है, कोई फाइल खोलना, या कुछ और लिखना हो तो बताइए। क्या आप जानना चाहेंगे कि मैं और क्या-क्या कर सकता हूँ?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759902284.1537523
+      }
+    ],
+    "timestamp": 1759902284.6453736
+  },
+  {
+    "messages": [
+      {
+        "id": "GI_b3316e8ca521",
+        "type": "message",
+        "role": "user",
+        "content": [
+          "हां बताओ"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759902305.7441738
+      }
+    ],
+    "timestamp": 1759902305.7988882
+  },
+  {
+    "messages": [
+      {
+        "id": "GR_f8333f0f31c1",
+        "type": "message",
+        "role": "assistant",
+        "content": [
+          "ज़रूर! मैं आपके लिए Google search कर सकता हूँ, weather check कर सकता हूँ, apps open या close कर सकता हूँ, files access कर सकता हूँ, mouse और keyboard control कर सकता हूँ, और system utilities का इस्तेमाल भी कर सकता हूँ। और बताइए, क्या जानना चाहेंगे?\n"
+        ],
+        "interrupted": false,
+        "transcript_confidence": null,
+        "hash": null,
+        "created_at": 1759902305.8754303
+      }
+    ],
+    "timestamp": 1759902306.8483176
+  }
+]
