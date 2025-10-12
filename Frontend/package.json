@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "concurrently \"pnpm next:dev\" \"pnpm backend\"",
     "next:dev": "next dev --turbopack",
-    "backend": "cd ../Jarvis_code && venv\\Scripts\\activate && python agent.py dev",
+    "backend": "cd ../Jarvis_code && python agent.py dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
