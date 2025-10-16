@@ -1,4 +1,4 @@
-﻿aiofiles==24.1.0
+﻿﻿aiofiles==24.1.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.14
 aiosignal==1.4.0
@@ -100,6 +100,7 @@ PyScreeze==1.0.1
 python-dotenv==1.1.1
 python-Levenshtein==0.27.1
 pytweening==1.2.0
+pywin32==311
 PyYAML==6.0.2
 RapidFuzz==3.13.0
 requests==2.32.4
@@ -122,4 +123,3 @@ websockets==15.0.1
 yarl==1.20.1
 zipp==3.23.0
 zstandard==0.23.0
-

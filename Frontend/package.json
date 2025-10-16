@@ -6,10 +6,8 @@
     "dev": "concurrently \"pnpm next:dev\" \"pnpm backend\"",
     "next:dev": "next dev --turbopack",
     "backend": "cd ../Jarvis_code && venv\\Scripts\\activate && python agent.py dev",
-    "backend:prod": "cd ../Jarvis_code && python agent.py dev",
     "build": "next build",
     "start": "next start",
-    "prod": "concurrently \"pnpm start\" \"pnpm backend:prod\"",
     "lint": "next lint",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
